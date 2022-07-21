@@ -1,0 +1,22 @@
+{
+  "name": "mmm-rtsp",
+  "version": "1.0.0",
+  "description": "MagicMirror module for RTSP stream player",
+  "main": "MMM-RTSP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eouia/MMM-RTSP.git"
+  },
+  "author": "eouia0819@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eouia/MMM-RTSP/issues"
+  },
+  "homepage": "https://github.com/eouia/MMM-RTSP#readme",
+  "dependencies": {
+    "rtsp-relay": "^1.6.1"
+  }
+}
